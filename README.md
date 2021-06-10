@@ -9,7 +9,7 @@
 - 💬 Ask me about Git 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Weebtoons reader
+- ⚡ Fun fact: Webtoon reader
 
 Begginer Backend Developer 👩‍💻
 
