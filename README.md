@@ -11,9 +11,9 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Webtoon reader
 
-Begginer Backend Developer 👩‍💻
+- Begginer Backend Developer 👩‍💻
 
-Tech stack that I'm using: 
+- Tech stack that I'm using: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
