@@ -9,9 +9,8 @@
 - 💬 Ask me about Git 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Webtoon reader
-
-- Begginer Backend Developer 👩‍💻
+- 👩‍💻 Begginer Backend Developer 
+- ⚡ Fun fact: Webtoon reader 
 
 - Tech stack that I'm using: 
 
