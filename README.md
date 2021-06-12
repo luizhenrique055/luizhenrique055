@@ -10,7 +10,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01)
 - 😄 Pronouns: He / Him
 - 👩‍💻 Begginer Backend Developer 
-- ⚡ Fun fact: Webtoon reader 
+- ⚡ Fun fact: My nickname is Lhuizito and i'm a Webtoon reader
 
 - Tech stack that I'm using: 
 
