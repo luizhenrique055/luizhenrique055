@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently graduating bachelor in Information System at **Pontifícia Universidade Católica de Minas Gerais**
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on DeSperto
 - 🤔 I’m looking for help with advanced Javascript and Java algorithms
 - 💬 Ask me about Git 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01)
