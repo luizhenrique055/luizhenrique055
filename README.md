@@ -4,10 +4,7 @@
 
 - 🔭 I’m currently graduating bachelor in Information System at **Pontifícia Universidade Católica de Minas Gerais**
 - 🌱 I’m currently learning Javascript
-- 🤔 I’m looking for help with advanced Javascript and Java algorithms
-- 💬 Ask me about Git 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01)
-- 😄 Pronouns: He / Him
 - 👩‍💻 Begginer Backend Developer 
 - ⚡ Fun fact: My nickname is Lhuizito and i'm a Webtoon reader
 
