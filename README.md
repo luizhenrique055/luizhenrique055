@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently graduating bachelor in Information System at **Pontifícia Universidade Católica de Minas Gerais**
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01)
 - 👩‍💻 Begginer Backend Developer 
 - ⚡ Fun fact: My nickname is Lhuizito and i'm a Webtoon reader
