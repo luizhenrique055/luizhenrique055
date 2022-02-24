@@ -4,9 +4,10 @@
 
 - 🔭 I’m currently graduating bachelor in Information System at **Pontifícia Universidade Católica de Minas Gerais**
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01) & luizhassis01@gmail.com
 - 👩‍💻 Begginer Backend Developer 
 - ⚡ Fun fact: My nickname is Lhuizito and i'm a Webtoon reader
+
 
 - Tech stack that I'm using: 
 
