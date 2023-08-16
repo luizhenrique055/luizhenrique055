@@ -1,11 +1,11 @@
 <h1 align= "center"><b> Hi i'm Luiz Henrique </b></h1>
 <p align="center"><img width=50% src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"></p>
 
-
+- ☕ I work for DTIdigital as a fullstack intern
 - 🔭 I’m currently graduating bachelor in Information System at **Pontifícia Universidade Católica de Minas Gerais**
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and React
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01) & luizhassis01@gmail.com
-- 👩‍💻 Begginer Backend Developer 
+- 👩‍💻 Begginer Fullstack Developer 
 - ⚡ Fun fact: My nickname is Lhuizito and i'm a Webtoon reader
 
 
