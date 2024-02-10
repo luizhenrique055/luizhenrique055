@@ -3,10 +3,9 @@
 
 - ☕ I work for DTIdigital as a fullstack intern
 - 🔭 I’m currently graduating bachelor in Information System at **Pontifícia Universidade Católica de Minas Gerais**
-- 🌱 I’m currently learning TypeScript and React
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01) & luizhassis01@gmail.com
 - 👩‍💻 Begginer Fullstack Developer 
-- ⚡ Fun fact: My nickname is Lhuizito and i'm a Webtoon reader
+- ⚡ Fun fact: I'm a Webtoon reader
 
 
 - Tech stack that I'm using: 
