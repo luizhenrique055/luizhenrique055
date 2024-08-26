@@ -1,25 +1,8 @@
 <h1 align= "center"><b> Hi i'm Luiz Henrique </b></h1>
 <p align="center"><img width=50% src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"></p>
 
-- ☕ I work for DTIdigital as a fullstack intern
 - 🔭 I’m currently graduating bachelor in Information System at **Pontifícia Universidade Católica de Minas Gerais**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luizhassis01) & luizhassis01@gmail.com
-- 👩‍💻 Begginer Fullstack Developer 
-- ⚡ Fun fact: I'm a Webtoon reader
-
-
-- Tech stack that I'm using: 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=flat&logo=typescript&logoColor=blue)&nbsp;
-![csharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![intellijavaIDE](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
 
 <div>
    <p align="center">My socials:</p><br>
